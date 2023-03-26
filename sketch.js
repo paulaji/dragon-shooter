@@ -10,9 +10,9 @@ let score = 0;
 // }
 
 function preload() {
-  imgDragon = loadImage("dragon1.png");
+  imgDragon = loadImage("dragon2.png");
   imgBoulder = loadImage("boulder.png");
-  imgFireball = loadImage("fireball.jpg");
+  imgFireball = loadImage("fireball1.png");
 }
 
 function setup() {
